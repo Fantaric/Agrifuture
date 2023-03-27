@@ -6,6 +6,8 @@
 
 .sfondo2{
   background-image: url("../img/sfondoAbbo.png");
+  background-size: 100%;
+  background-attachment: fixed;
 }
 
 .bordi{
