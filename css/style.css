@@ -30,7 +30,7 @@
 
   background-color: white;
   width: 80%;
-  height: 500px;
+  height: 150%;
   margin-left: auto;
   margin-right: auto;
   opacity: 0.6;
@@ -117,4 +117,15 @@
 
   .immag{
     width: 80%;
+  }
+
+  .instaDimention{
+    width: 20%;
+  }
+
+  .footerSfondo{
+    opacity: 0.6;
+    width: 80%;
+    background-color: white;
+    border-radius: 4%;
   }
